@@ -4,7 +4,7 @@ import {Button} from 'semantic-ui-react';
 
 const HomePage = () => (
 <div className="ui container">
-  <h1>Home Page</h1>
+  <h1>Toy Store</h1>
   <Link to='/login' className="button"> Login </Link><br/>
   <Link to='/registration' className ="button"> Registration</Link>
 </div>
